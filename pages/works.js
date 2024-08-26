@@ -43,13 +43,13 @@ const Works = () => (
             title="Spotify AI Music Recommendor"
             thumbnail={thumbFourPainters}
           >
-            SoundSphere leverages Spotify's API and advanced machine learning algorithms to analyze user listening habits, generating personalized music recommendations. The model continuously adapts based on user preferences and behavior, enabling precise and dynamic playlist curation without the need for a dedicated user interface.
+            SoundSphere leverages Spotify&apos;s API and advanced machine learning algorithms to analyze user listening habits, generating personalized music recommendations. The model continuously adapts based on user preferences and behavior, enabling precise and dynamic playlist curation without the need for a dedicated user interface.
           </WorkGridItem>
         </Section>
 
          <Section delay={0.1}>
           <WorkGridItem id="menkiki" thumbnail={thumbMenkiki} title="AI Image Generator">
-          An AI-powered image generator leveraging OpenAI's DALL·E model allows users to create detailed and unique images from text prompts. Through an intuitive user interface, users can input descriptions and adjust parameters, while the machine learning model transforms the input into high-quality visuals. This tool streamlines the process of generating custom images, making AI-driven creativity accessible to everyone.
+          An AI-powered image generator leveraging OpenAI&apos;s DALL·E model allows users to create detailed and unique images from text prompts. Through an intuitive user interface, users can input descriptions and adjust parameters, while the machine learning model transforms the input into high-quality visuals. This tool streamlines the process of generating custom images, making AI-driven creativity accessible to everyone.
           </WorkGridItem>
         </Section>
       </SimpleGrid>

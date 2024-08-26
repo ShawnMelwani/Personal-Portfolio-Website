@@ -70,10 +70,10 @@ const Home = () => (
         </Heading>
         <Paragraph>
           
-          I recently graduated from CSUF with a bachelor's degree in computer science
-          and I'm on the lookout for job opportunities. I have a passion for creating
+          I recently graduated from CSUF with a bachelor&apos;s degree in computer science
+          and I&apos;m on the lookout for job opportunities. I have a passion for creating
           digital solutions and love diving into every aspect of a project, from the
-          initial planning and design stages to coding and problem-solving. When I'm
+          initial planning and design stages to coding and problem-solving. When I&apos;m
           not immersed in technology, you can usually find me exploring the world of
           cars!{' '}
         </Paragraph>
@@ -178,7 +178,7 @@ const Home = () => (
         </Heading>
         <p>
         If you like what you see, feel free to contact me. 
-        I'm always open to discussing projects, sharing insights, and exploring new opportunities.
+        I&apos;m always open to discussing projects, sharing insights, and exploring new opportunities.
         </p>
 
         <Box align="center" my={4}>
