@@ -129,7 +129,7 @@ const Home = () => (
           <Link href="https://osu.ppy.sh/users/11312128" target="_blank">
             Osu!
           </Link>
-          , and Building PC's
+          , and Building PC&apos;s
         </Paragraph>
       </Section>
 

@@ -85,7 +85,7 @@ const ContactMe = () => {
           Contact Me
         </Heading>
         <Text fontSize="lg" textAlign="center">
-          If you like what you see, feel free to contact me. I'm always open to
+          If you like what you see, feel free to contact me. I&apos;m always open to
           discussing projects, sharing insights, and exploring new opportunities.
         </Text>
         <form ref={formRef} onSubmit={handleSubmit}>
